@@ -1,0 +1,13 @@
+# Build output
+target/
+out/
+*.class
+
+# Generated test data (create with the generate command)
+txids-*.txt
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
