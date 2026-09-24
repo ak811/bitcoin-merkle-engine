@@ -292,12 +292,6 @@ This tool verifies that a block's contents match its header's commitments and th
 
 ---
 
-## Project History
-
-This repository originally contained a Java concurrency exercise that combined numbers from a file with XOR using threads, a synchronized variant, and separate processes, described as blockchain transaction processing. It has been rewritten to implement the structure Bitcoin actually uses to commit to its transactions, the Merkle tree, and to parallelize its computation.
-
----
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
